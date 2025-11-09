@@ -4,7 +4,7 @@
 
 **Autor:** Kauã Ferreira Marques
 ---
-![Uploading image.png…]()
+![Capa do eBook](./capa.png)
 
 ---
 
