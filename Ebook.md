@@ -3,6 +3,7 @@
 ## 🧠 Transforme a inteligência artificial no seu professor particular de programação
 
 **Autor:** Kauã Ferreira Marques
+---
 ![Uploading image.png…]()
 
 ---
